@@ -21,7 +21,7 @@ Uma célula de triagem industrial que utiliza visão computacional para detecç�
 ## 👥 Squad Técnico
 Para manter a agilidade, a equipe opera em frentes multidisciplinares:
 
-* **Estratégia Visual & Marketing:** [Seu Nome]
+* **Estratégia Visual & Marketing:** Joyce
 * **Controle de Dados & Documentação:** Agatha
 * **Engenharia de Automação:** Lucas
 * **Sistemas Elétricos:** Pedro
