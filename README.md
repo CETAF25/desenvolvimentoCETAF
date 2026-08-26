@@ -28,4 +28,14 @@ Para manter a agilidade, a equipe opera em frentes multidisciplinares:
 * **Design de Produto & CAD:** José
 
 ---
+
+## 📅 Cronograma do 6º Semestre: Projeto SAS
+
+*Acompanhamento das entregas do Sistema Automatizado de Separação para a Feira de Soluções.*
+
+- **Sprint 1:** 17/09/2026
+- **Sprint 2:** 08/10/2026
+- **Sprint 3:** 19/11/2026
+- **Feira de Soluções:** 03/12/2026
+
 *SJC | São Paulo | Brazil*
